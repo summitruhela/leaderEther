@@ -1,0 +1,24 @@
+{
+    "nodemailer": {
+        "pass": "Mobiloitte@123",
+        "user": "sumitruhelamobiloitte@gmail.com"
+    },
+    "db": {
+        "host": "localhost:27017",
+        "name": "BMCTWALLET"
+    },
+    "twilio": {
+        "sid": "ACf786a64203b2524f8ee2878ee632bbe7",
+        "auth_token": "0f53e378507e1543cd5e2ddfcf5389a1",
+        "number": "+18555728559"
+    },
+    "stripe": {
+        "secretKey": "sk_test_vS2u5KWoK2edXvnyt7N5SZwH",
+        "publishableKey": "pk_test_9Dlyh9ZTGpiwLUiLZQWhCMru"
+    },
+    "credientialAdmin":{
+        "email":"abc@gmail.com",
+        "password":"Admin@123"
+
+    }
+}
